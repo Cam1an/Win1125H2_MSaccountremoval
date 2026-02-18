@@ -80,7 +80,7 @@ Confirm with Y when prompted
 
 Restart your computer
 
-One-Liner (no download needed)
+### One-Liner (no download needed)
 
 Powershell
 
