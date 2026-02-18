@@ -42,6 +42,13 @@ Windows 11 25H2 introduced aggressive new prompts pushing users to sign in with 
 | Outlook (new/Store) | AppxPackage removal + provisioned package removal |
 | Microsoft 365 / Office | ClickToRun removal + winget fallback + Store app removal |
 
+### Part 3: Ms account removal from settings in 25H2
+
+| Application | Removal Method |
+|---|---|
+| Settings | Stops Windows from asking to sing in to MS account |
+
+
 ---
 
 ## Requirements
